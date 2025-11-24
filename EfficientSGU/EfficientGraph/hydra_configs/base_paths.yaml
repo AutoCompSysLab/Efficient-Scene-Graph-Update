@@ -1,4 +1,4 @@
 # Main paths
-repo_root: /home/pchy0316/baseline_project/EfficinetSGU
+repo_root: /home/pchy0316/baseline_project/EfficientSGU
 data_root: /home/pchy0316/dataset/my_local_data
 before_data_root: /home/pchy0316/dataset/before_local_data

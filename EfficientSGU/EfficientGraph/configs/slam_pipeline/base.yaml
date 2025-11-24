@@ -1,6 +1,6 @@
 # Dataset
 dataset_root: /home/pchy0316/baseline_project/EfficientSGU/ai2thor/data
-dataset_config: /home/pchy0316/baseline_project/EfficinetSGU/EfficientGraph/dataset/dataconfigs/ai2thor
+dataset_config: /home/pchy0316/baseline_project/EfficientSGU/EfficientGraph/dataset/dataconfigs/ai2thor
  #/home/kuwajerw/repos/CFSLAM/cfslam/dataset/dataconfigs/ai2thor/ai2thor.yaml
 scene_id: train_3_interact
 start: 0
